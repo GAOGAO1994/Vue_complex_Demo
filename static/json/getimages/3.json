@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 5,
+      "title": "图片3333333333",
+      "img_url": "../../../static/img/lunBo/2.png",
+      "zhaiyao": "photo22222222"
+    },
+    {
+      "id": 6,
+      "title": "图片3333333333333",
+      "img_url": "../../../static/img/lunBo/3.png",
+      "zhaiyao": "photo33333333333333"
+    }
+  ]
+}

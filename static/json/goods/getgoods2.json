@@ -1,0 +1,60 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 6,
+      "title": "华为荣耀，16G双4G版",
+      "add_time": "2019-05-05 TO4:05:34.000Z",
+      "zhaiyao": "华为荣耀，16G双4G版",
+      "click": 2839,
+      "img_url": "../../../static/img/lunBo/1.png",
+      "sell_price": 2987,
+      "market_price": 2499,
+      "stock_quantity": 60
+    },
+    {
+      "id": 7,
+      "title": "Apple iPhone X Max 4G",
+      "add_time": "2019-05-05 TO4:05:34.000Z",
+      "zhaiyao": "Apple iPhone X Max 4G",
+      "click": 2839,
+      "img_url": "../../../static/img/lunBo/2.png",
+      "sell_price": 2987,
+      "market_price": 2499,
+      "stock_quantity": 60
+    },
+    {
+      "id": 8,
+      "title": "华为Mate20 全新上市",
+      "add_time": "2019-05-05 TO4:05:34.000Z",
+      "zhaiyao": "华为Mate20 全新上市",
+      "click": 2839,
+      "img_url": "../../../static/img/lunBo/3.png",
+      "sell_price": 2987,
+      "market_price": 2499,
+      "stock_quantity": 60
+    },
+    {
+      "id": 9,
+      "title": "Apple iPhone X Max 4G",
+      "add_time": "2019-05-05 TO4:05:34.000Z",
+      "zhaiyao": "Apple iPhone X Max 4G",
+      "click": 2839,
+      "img_url": "../../../static/img/lunBo/4.png",
+      "sell_price": 2987,
+      "market_price": 2499,
+      "stock_quantity": 60
+    },
+    {
+      "id": 10,
+      "title": "华为Mate20 全新上市",
+      "add_time": "2019-05-05 TO4:05:34.000Z",
+      "zhaiyao": "华为Mate20 全新上市",
+      "click": 2839,
+      "img_url": "../../../static/img/lunBo/5.png",
+      "sell_price": 2987,
+      "market_price": 2499,
+      "stock_quantity": 60
+    }
+  ]
+}

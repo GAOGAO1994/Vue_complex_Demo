@@ -1,0 +1,15 @@
+
+{
+  "status": 0,
+  "message": [
+    {"srr":"../../static/img/lunBo/1.png","alt":"page1"},
+    {"srr":"../../static/img/lunBo/2.png","alt":"page2"},
+    {"srr":"../../static/img/lunBo/3.png","alt":"page3"},
+    {"srr":"../../static/img/lunBo/4.png","alt":"page4"},
+    {"srr":"../../static/img/lunBo/5.png","alt":"page5"},
+    {"srr":"../../static/img/lunBo/6.png","alt":"page6"},
+    {"srr":"../../static/img/lunBo/7.png","alt":"page7"}
+  ]
+
+}
+
