@@ -47,3 +47,22 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - - 购物车商品数量的动态更新、商品总价计算等功能（vuex状态管理）
 - 查找 
 
+![1557833503456](C:\Users\user\AppData\Local\Temp\1557833503456.png)
+
+![1557833535852](C:\Users\user\AppData\Local\Temp\1557833535852.png)
+
+![1557833557817](C:\Users\user\AppData\Local\Temp\1557833557817.png)
+
+![1557833584034](C:\Users\user\AppData\Local\Temp\1557833584034.png)
+
+![1557833603350](C:\Users\user\AppData\Local\Temp\1557833603350.png)
+
+![1557833625283](C:\Users\user\AppData\Local\Temp\1557833625283.png)
+
+![1557833646584](C:\Users\user\AppData\Local\Temp\1557833646584.png)
+
+![1557833675460](C:\Users\user\AppData\Local\Temp\1557833675460.png)
+
+
+
+![1557833696879](C:\Users\user\AppData\Local\Temp\1557833696879.png)
