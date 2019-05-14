@@ -47,10 +47,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - - 购物车商品数量的动态更新、商品总价计算等功能（vuex状态管理）
 - 查找 
 
-
-
-
-
-
-
-
+**！！请在imgs文件夹中查看项目图片**
